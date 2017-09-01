@@ -50,3 +50,5 @@ deactivate A;
 '>
 
 ![Alt text](http://yuml.me/diagram/plain/class/%2F%2F Cool Class Diagram, [Customer|-forname:string;surname:string|doShiz()]<>-orders*>[Order], [Order]++-0..*>[LineItem], [Order]-[note:Aggregate root{bg:wheat}])
+
+![Alt text](http://yuml.me/diagram/plain/class/%2F%2F%20Cool%20Class%20Diagram%2C%20%5BCustomer%7C-forname%3Astring%3Bsurname%3Astring%7CdoShiz%28%29%5D%3C%3E-orders%2A%3E%5BOrder%5D%2C%20%5BOrder%5D%2B%2B-0..%2A%3E%5BLineItem%5D%2C%20%5BOrder%5D-%5Bnote%3AAggregate%20root%7Bbg%3Awheat%7D%5D)
