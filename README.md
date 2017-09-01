@@ -24,7 +24,7 @@ custom_mark10
 custom_mark10
 </details>
 
-<img src='https://g.gravizo.com/svg?
+<img src='https://g.gravizo.com/source/svg?
  digraph G {
    main -> parse -> execute;
    main -> init;
