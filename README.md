@@ -24,4 +24,4 @@ custom_mark10
 custom_mark10
 </details>
 
-<img src='https://g.gravizo.com/source/svg? digraph G {main -> parse -> execute; main -> init; main -> cleanup; execute -> make_string; execute -> printf; init -> make_string; main -> printf; execute -> compare;}'/>
+<img src='https://g.gravizo.com/source/svg?digraph%20G%20%7Bmain%20-%3E%20parse%20-%3E%20execute%3B%20main%20-%3E%20init%3B%20main%20-%3E%20cleanup%3B%20execute%20-%3E%20make_string%3B%20execute%20-%3E%20printf%3B%20init%20-%3E%20make_string%3B%20main%20-%3E%20printf%3B%20execute%20-%3E%20compare%3B%7D'/>
