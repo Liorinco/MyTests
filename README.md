@@ -2,7 +2,7 @@
 
 ## Sequence diagram
 
-![Alt text](http://g.gravizo.com/source/gravizosample?https://github.com/Liorinco/MyTests/blob/master/README.md#
+![Alt text](https://g.gravizo.com/svg?
 gravizosample
  digraph G {
    main -> parse -> execute
