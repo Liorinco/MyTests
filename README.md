@@ -24,7 +24,7 @@ custom_mark10
 custom_mark10
 </details>
 
-![Alt text](https://g.gravizo.com/source/svg/custom_mark12?https%3A%2F%2Fgithub.com%2FLiorinco%2FMyTests%2Fblob%2Fmaster%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/custom_mark12?https%3A%2F%2Fgithub.com%2FLiorinco%2FMyTests%2Fblob%2Fmaster%2FREADME.md)
 <details> 
 <summary></summary>
 custom_mark12
